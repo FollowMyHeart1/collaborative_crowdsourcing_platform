@@ -1,5 +1,13 @@
 # collaborative_crowdsourcing_platform
 
+### 简单介绍
+
+代码是实验室项目协同众包标注平台的前端界面，展示地址为：http://cgo.culturecompute.com/CCP/#/Index
+
+
+
+
+
 ## Project setup
 ```
 npm install
